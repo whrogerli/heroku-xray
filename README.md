@@ -4,7 +4,8 @@
 
 ## 概述
 
-用于在 Heroku 上部署 Vless + Websocket + Tls，每次部署自动选择最新的 alpine linux 和 Xray core 。
+用于在 Heroku 上部署 Vless + Websocket + Tls，每次部署自动选择最新的 Alpine Linux 和 Xray-core 。
+
 Vless 性能更加优秀，占用资源更少。
 
 **Heroku 为我们提供了免费的容器服务，我们不应该滥用它，所以本项目不宜做为长期大流量使用。**
