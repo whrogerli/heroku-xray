@@ -1,0 +1,14 @@
+{
+    "name": "Xray",
+    "description": "Deploy Xray on Heroku.",
+    "keywords": ["Xray"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID",
+            "value": "63a6c4d6-a55d-44e6-b232-a0f6a6672eed"
+        }
+    },
+    "website": "https://github.com/wanjiji/heroku-xray",
+    "repository": "https://github.com/wanjiji/heroku-xray",
+    "stack": "container"
+}
